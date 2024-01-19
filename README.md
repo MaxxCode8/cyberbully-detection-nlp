@@ -14,10 +14,10 @@ The target variable is **oh-label** and the evaluation metric is **F1-score**.
 ---
 
 #### Although the Task was to determine whether a tweet is a bully or not, I used a slightly different approach for detection...
-IF you look at the dataset, we have also `annotations` available for each tweet!
+If you look at the dataset, we have also `annotations` available for each tweet!
 ![image](https://github.com/MaxxCode8/cyberbully-detection-nlp/assets/105921273/e763e010-0cbf-4544-89e4-70b74f2b0f9d)
 
-To NOT lose this valuable insight into the tweet, I modified the task at hand. 
+*To NOT lose this valuable insight into the tweet, I modified the task at hand.* 
 
 ### Modified task: TO DETECT WHETHER THE TWEET IS A `Sexist` or `Racist` or `Normal` " ( The problem became Multi-Class Classification ) "
 
