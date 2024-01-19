@@ -19,7 +19,7 @@ If you look at the dataset, we have also `annotations` available for each tweet!
 
 *To NOT lose this valuable insight into the tweet, I modified the task at hand.* 
 
-### Modified task: TO DETECT WHETHER THE TWEET IS A `Sexist` or `Racist` or `Normal` " ( The problem became Multi-Class Classification ) "
+### Modified task: TO DETECT WHETHER THE TWEET IS A `Sexist` or `Racist` or `Normal` " ( The problem became *Multi-Class Classification* ) "
 
 Necessary changes in `loss function` etc were made ...
 
